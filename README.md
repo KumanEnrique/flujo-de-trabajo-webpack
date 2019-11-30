@@ -1,1 +1,1 @@
-# flujo-de-trabajo-webpack
+## flujo de trabajo con webpack,babel ,prepocesador de css,motor de plantillas,cargador de imagenes y compresor de imagenes
